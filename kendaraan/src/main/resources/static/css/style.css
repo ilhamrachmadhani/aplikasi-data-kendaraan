@@ -1,0 +1,22 @@
+custom-card-search{
+    border: none;
+    border-radius: 8px;
+    box-shadow: - 2px 4px rgba(0, 0, 0, 0.05);
+} 
+
+.table th  {
+    vertical-align: middle;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.action-link {
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.action-link:hover {
+    text-decoration: underline;
+}
